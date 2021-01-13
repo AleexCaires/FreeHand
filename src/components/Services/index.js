@@ -6,7 +6,7 @@ import Icon3 from '../../images/svg-3.svg'
 
 
 const ServicesContainer = styled.div `
-height: 800px;
+height: 965px;
 display:flex;
 flex-direction: column;
 justify-content:center;

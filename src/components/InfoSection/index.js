@@ -14,7 +14,7 @@ background: ${({lightBg}) => (lightBg ? '#f9f9f9' : 'linear-gradient(to bottom, 
 const InfoWrapper = styled.div `
 display: grid;
 z-index: 1;
-height: 860px;
+height: 965px;
 width: 100%;
 max-width: 1100px;
 margin-right: auto;
